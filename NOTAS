@@ -1,0 +1,1 @@
+al entrar en la carpeta evidencia2 va a venir la carpeta src que adentro tiene el db junto con los csv  de pacientes, citas, doctores, estos funcionan si los sacas de la carpeta src no pude juntar para el programa abriera la carpeta db junto con el gitignore para que ignorara los csv
